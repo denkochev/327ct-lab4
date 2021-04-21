@@ -1,0 +1,77 @@
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe.config
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.pdb
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Form1.resources
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Properties.Resources.resources
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.exe
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.pdb
+C:\Users\Администратор\source\repos\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\dbb1.mdb
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\dbb1.mdb
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe.config
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.pdb
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csprojAssemblyReference.cache
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Form1.resources
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Properties.Resources.resources
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.GenerateResource.cache
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.CoreCompileInputs.cache
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.exe
+D:\327st\ko4ev\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.pdb
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\dbb1.mdb
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe.config
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.pdb
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csprojAssemblyReference.cache
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Form1.resources
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Properties.Resources.resources
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.GenerateResource.cache
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.CoreCompileInputs.cache
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.exe
+E:\hai\3 КУРС\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.pdb
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\dbb1.mdb
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe.config
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.pdb
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csprojAssemblyReference.cache
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Form1.resources
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Properties.Resources.resources
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.GenerateResource.cache
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.CoreCompileInputs.cache
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.exe
+D:\3 курс\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.pdb
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\dbb1.mdb
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe.config
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.pdb
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csprojAssemblyReference.cache
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Form1.resources
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Properties.Resources.resources
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.GenerateResource.cache
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.CoreCompileInputs.cache
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.exe
+E:\hai\3 КУРС\1 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.pdb
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\dbb1.mdb
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe.config
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.pdb
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csprojAssemblyReference.cache
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Form1.resources
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Properties.Resources.resources
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.GenerateResource.cache
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.CoreCompileInputs.cache
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.exe
+D:\327st\ko4ev\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.pdb
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\dbb1.mdb
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe.config
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.exe
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\bin\Debug\ko4ev-lab1.0.pdb
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csprojAssemblyReference.cache
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Form1.resources
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev_lab1._0.Properties.Resources.resources
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.GenerateResource.cache
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.csproj.CoreCompileInputs.cache
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.exe
+D:\QUARANTIN III\3 КУРС\3 лаб.c#\ko4ev-lab1.0\ko4ev-lab1.0\obj\Debug\ko4ev-lab1.0.pdb
