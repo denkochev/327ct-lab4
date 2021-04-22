@@ -12,6 +12,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+//sdasdsadasdsdad
+//dasdsadasdasdasdasdsadasdasdfasfaASFQAFASFASF
+
 namespace ko4ev_lab1._0
 {
     public partial class Form1 : Form
